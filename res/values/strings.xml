@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Eventi in Toscana</string>
+    <color name="errorColor">#ce232c</color>
+    <color name="black">#000</color>
+    
+</resources>
